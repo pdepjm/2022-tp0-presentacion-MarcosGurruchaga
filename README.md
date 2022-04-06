@@ -1,6 +1,7 @@
 # Presentación
 ##### Hola, soy Marcos (díganme gurru)
-## Estudiante: Marcos_Gurruchaga
+## Estudiante: Marcos Gurruchaga
 
-*foto fachera*
+*foto*
+
 ![mi foto](foto.jpeg)
