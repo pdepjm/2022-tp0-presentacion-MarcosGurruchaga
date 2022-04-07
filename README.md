@@ -1,7 +1,7 @@
 # Presentación
-##### Hola, soy Marcos (díganme gurru)
+##### Hola, soy Marcos (me dicen Gurru adivinen porque)
 ## Estudiante: Marcos Gurruchaga
 
-*foto*
+*foto random*
 
 ![mi foto](foto.jpeg)
