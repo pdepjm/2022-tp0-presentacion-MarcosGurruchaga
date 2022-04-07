@@ -4,4 +4,4 @@
 
 *foto random*
 
-![mi foto](foto.jpeg)
+![mi foto](foto.jpg)
